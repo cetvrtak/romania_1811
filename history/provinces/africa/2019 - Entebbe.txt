@@ -1,0 +1,7 @@
+owner=SWA
+controller=SWA
+add_core=BUG
+trade_goods = cattle
+life_rating = 10
+terrain = savanna
+fort = 1

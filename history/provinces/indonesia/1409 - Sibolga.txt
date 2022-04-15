@@ -1,0 +1,6 @@
+owner=PSA
+controller=PSA
+add_core=MLY
+add_core=PSA
+trade_goods = wool
+life_rating = 35

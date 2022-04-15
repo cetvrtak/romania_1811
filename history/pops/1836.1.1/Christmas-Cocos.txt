@@ -1,0 +1,23 @@
+2244 = {
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 7
+	}
+
+}

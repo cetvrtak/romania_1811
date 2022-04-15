@@ -1,0 +1,7 @@
+owner=QOM
+controller=QOM
+add_core=SRN
+trade_goods = sulphur
+life_rating = 35
+terrain = dryhills
+fort = 1

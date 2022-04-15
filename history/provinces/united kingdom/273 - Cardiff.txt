@@ -1,0 +1,14 @@
+owner=ENL
+controller=ENL
+add_core=ENG
+add_core=WHA
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+naval_base = 1
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

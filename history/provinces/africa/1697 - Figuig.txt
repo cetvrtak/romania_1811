@@ -1,0 +1,7 @@
+owner=POR
+controller=POR
+add_core=TLC
+trade_goods = wool
+life_rating = 31
+terrain = semidesert
+colonial=2

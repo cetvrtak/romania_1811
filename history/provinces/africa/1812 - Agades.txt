@@ -1,0 +1,7 @@
+owner=KTS
+controller=KTS
+add_core=AYR
+add_core=KTS
+trade_goods = wool
+life_rating = 5
+fort = 1

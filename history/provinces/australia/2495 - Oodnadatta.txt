@@ -1,0 +1,5 @@
+owner=HLL
+controller=REB
+trade_goods = fruit
+life_rating = 15
+terrain = semidesert

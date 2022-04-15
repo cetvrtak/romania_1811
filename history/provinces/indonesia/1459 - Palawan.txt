@@ -1,0 +1,7 @@
+owner=LAN
+controller=LAN
+add_core=PGS
+trade_goods = tropical_wood
+life_rating = 35
+naval_base = 2
+fort = 1

@@ -1,0 +1,8 @@
+owner=LAN
+controller=LAN
+add_core=KTI
+add_core=LAN
+add_core=MLY
+trade_goods = wool
+life_rating = 31
+fort = 1

@@ -1,0 +1,4 @@
+owner=X15
+controller=X15
+trade_goods = coffee
+life_rating = 33

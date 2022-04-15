@@ -1,0 +1,8 @@
+owner=TIM
+controller=DLH
+add_core=HND
+add_core=KAS
+add_core=TIM
+trade_goods = silk
+life_rating = 32
+fort = 1

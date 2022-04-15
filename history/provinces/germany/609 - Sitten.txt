@@ -1,0 +1,7 @@
+owner=GNV
+controller=GNV
+add_core=GNV
+add_core=SWI
+trade_goods = coal
+life_rating = 31
+fort = 1

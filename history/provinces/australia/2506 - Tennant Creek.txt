@@ -1,0 +1,7 @@
+owner=AST
+controller=AST
+add_core=AST
+add_core=AUL
+add_core=NZL
+trade_goods = cattle
+life_rating = 31

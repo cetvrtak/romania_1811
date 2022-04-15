@@ -1,0 +1,6 @@
+owner=QOM
+controller=QOM
+add_core=PER
+add_core=QOM
+trade_goods = cattle
+life_rating = 35

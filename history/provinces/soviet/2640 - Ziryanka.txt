@@ -1,0 +1,10 @@
+owner=ORM
+controller=ORM
+add_core=ARA
+add_core=OMA
+add_core=ORM
+trade_goods = fish
+life_rating = 31
+terrain = mountain
+naval_base = 1
+fort = 1

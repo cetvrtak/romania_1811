@@ -1,0 +1,8 @@
+owner=MTA
+controller=MTA
+add_core=ITA
+add_core=LOM
+add_core=MTA
+trade_goods = iron
+life_rating = 35
+fort = 1

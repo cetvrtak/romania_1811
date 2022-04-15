@@ -1,0 +1,12 @@
+owner=USA
+controller=USA
+add_core=CCW
+trade_goods = cotton
+life_rating = 35
+colonial=2
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

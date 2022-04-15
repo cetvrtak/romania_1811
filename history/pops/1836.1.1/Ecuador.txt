@@ -1,0 +1,378 @@
+2279 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 7393
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 4353
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 10883
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1011
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 155
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 124
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 653
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 53162
+	}
+
+}
+2280 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 3264
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1169
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 835
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 42
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 15224
+	}
+
+}
+2281 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 9954
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 939
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 671
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 34
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 4897
+	}
+
+}
+2282 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 2301
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 1644
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 82
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 690
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 36038
+	}
+
+}
+2283 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 2464
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 6160
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 88
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 370
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 34564
+	}
+
+}
+2284 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 1576
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 5667
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 326
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 362
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 13
+	}
+
+}
+2285 = {
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 52
+	}
+
+}

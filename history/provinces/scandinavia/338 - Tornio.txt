@@ -1,0 +1,8 @@
+owner=SWE
+controller=RUS
+add_core=FIN
+add_core=SCA
+trade_goods = iron
+life_rating = 10
+terrain = boreal
+naval_base = 1

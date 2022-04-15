@@ -1,0 +1,5 @@
+owner=LSK
+controller=LSK
+add_core=LSK
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,912 @@
+2115 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 3149
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 1125
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 53
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 472
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 51201
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 6563
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 5812
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 945
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 276
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 233
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 2441
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 100916
+	}
+
+}
+2116 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 698
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 610
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 10
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 33475
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 7823
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 363
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 129
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 704
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 29346
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = shiite
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = shiite
+		size= 2026
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = shiite
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = shiite
+		size= 33
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = shiite
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = shiite
+		size= 182
+	}
+
+}
+2117 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 1636
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 2045
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 33
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 246
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 25132
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 1723
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 6352
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 295
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 104
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 762
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 21454
+	}
+
+}
+2118 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 7256
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 2747
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 6869
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 319
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 93
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 412
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 31527
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 955
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 362
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 905
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 4115
+	}
+
+}
+2119 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 3691
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 856
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 9
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 10365
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 3672
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 852
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 976
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 37
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 307
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 9169
+	}
+
+}
+2120 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 2322
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 201
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 7280
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 3564
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 309
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 839
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 32
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 10375
+	}
+
+}
+2121 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 2402
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 1626
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 2033
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 22
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 22716
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 3405
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 2305
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 7796
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 362
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 84
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 468
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 26655
+	}
+
+}
+2122 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 1743
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 1293
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 1614
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 22
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = shamanism
+		size= 18152
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 3480
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 2580
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 8063
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 375
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 111
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 726
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 30634
+	}
+
+}

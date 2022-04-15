@@ -1,0 +1,7 @@
+owner=JNN
+controller=JNN
+add_core=YAT
+trade_goods = cattle
+life_rating = 32
+terrain = semidesert
+fort = 1

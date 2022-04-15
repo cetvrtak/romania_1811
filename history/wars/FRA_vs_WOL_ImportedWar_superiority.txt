@@ -1,0 +1,19 @@
+name = "French Revolutionary War against Jolofian"
+
+1803.7.13 = {
+	add_attacker = FRA
+	add_attacker = NAP
+	add_attacker = SCO
+	add_attacker = GLR
+	add_defender = WOL
+	add_defender = JNN
+	add_defender = KNG
+	add_defender = TMB
+
+	war_goal = {
+		casus_belli = add_to_sphere
+		actor = FRA
+		receiver = WOL
+		state_province_id = 1783
+	}
+}

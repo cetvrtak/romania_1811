@@ -1,0 +1,6 @@
+owner=LAN
+controller=LAN
+add_core=LAN
+trade_goods = fish
+life_rating = 31
+terrain = small_island

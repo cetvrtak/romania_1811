@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=VIJ
+trade_goods = fish
+life_rating = 15
+colonial=2
+naval_base = 2

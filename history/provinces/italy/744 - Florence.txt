@@ -1,0 +1,8 @@
+owner=FER
+controller=FER
+add_core=FER
+add_core=FLO
+add_core=ITA
+trade_goods = fruit
+life_rating = 40
+fort = 1

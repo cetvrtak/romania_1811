@@ -1,0 +1,5 @@
+owner=CLM
+controller=CLM
+add_core=ARW
+trade_goods = grain
+life_rating = 31

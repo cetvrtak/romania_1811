@@ -1,0 +1,4 @@
+owner=KNG
+controller=KAN
+trade_goods = fruit
+life_rating = 35

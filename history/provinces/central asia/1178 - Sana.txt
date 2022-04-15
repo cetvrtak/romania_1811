@@ -1,0 +1,8 @@
+owner=ADE
+controller=ADE
+add_core=ADE
+add_core=ARA
+trade_goods = coffee
+life_rating = 35
+terrain = steppe
+fort = 1

@@ -1,0 +1,7 @@
+owner=ENL
+controller=ENL
+add_core=FRA
+add_core=NRM
+trade_goods = cattle
+life_rating = 31
+naval_base = 2

@@ -1,0 +1,6 @@
+owner=KAN
+controller=KAN
+add_core=DGB
+trade_goods = grain
+life_rating = 10
+fort = 1

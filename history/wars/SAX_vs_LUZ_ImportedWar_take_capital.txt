@@ -1,0 +1,20 @@
+name = "Saxon-Lusatian War"
+
+1808.7.7 = {
+	add_attacker = SAX
+	add_attacker = ANH
+	add_attacker = BRA
+	add_attacker = RVA
+	add_attacker = SLO
+	add_defender = LUZ
+	add_defender = THU
+	add_defender = LBV
+
+	war_goal = {
+		casus_belli = add_to_sphere
+		actor = SAX
+		receiver = LUZ
+		country = LUZ
+		state_province_id = 687
+	}
+}

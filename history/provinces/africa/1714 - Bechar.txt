@@ -1,0 +1,11 @@
+owner=ARG
+controller=ARG
+trade_goods = wool
+life_rating = 33
+colonial=2
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

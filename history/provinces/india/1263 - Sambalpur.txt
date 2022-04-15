@@ -1,0 +1,8 @@
+owner=JNP
+controller=BMN
+add_core=HND
+add_core=JNP
+add_core=NGP
+add_core=PTT
+trade_goods = grain
+life_rating = 32

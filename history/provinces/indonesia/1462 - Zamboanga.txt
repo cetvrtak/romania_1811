@@ -1,0 +1,6 @@
+owner=VIJ
+controller=CEB
+add_core=CEB
+trade_goods = iron
+life_rating = 35
+naval_base = 2

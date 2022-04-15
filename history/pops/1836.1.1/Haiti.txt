@@ -1,0 +1,179 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 9952
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 557
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 67976
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 3802
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 10909
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1012
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 980
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 263
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 125
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 7077
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 396
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 29474
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1645
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 4921
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 455
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 442
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 118
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 55
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 16511
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 925
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 2506
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 61
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 226
+	}
+
+}

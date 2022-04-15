@@ -1,0 +1,249 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 188
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 479
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 384
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 871
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 3
+	}
+
+}
+1973 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 194
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 779
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 487
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 10
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 12385
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = protestant
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = protestant
+		size= 503
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = protestant
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = protestant
+		size= 10
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = protestant
+		size= 35
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 262
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 1055
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 3628
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 73
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 13347
+	}
+
+}

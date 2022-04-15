@@ -1,0 +1,4 @@
+owner=VIJ
+controller=REB
+trade_goods = fish
+life_rating = 32

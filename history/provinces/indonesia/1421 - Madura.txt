@@ -1,0 +1,7 @@
+owner=MTR
+controller=MTR
+add_core=JAV
+add_core=MTR
+trade_goods = sulphur
+life_rating = 35
+naval_base = 1

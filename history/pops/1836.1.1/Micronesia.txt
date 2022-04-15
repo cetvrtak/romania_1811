@@ -1,0 +1,582 @@
+610 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 436
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 4
+	}
+
+}
+1654 = {
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+}
+2517 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 437
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 974
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+}
+2518 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 354
+	}
+
+	farmers=
+	{
+		culture = janubii
+		religion = sunni
+		size= 1354
+	}
+
+	artisans=
+	{
+		culture = janubii
+		religion = sunni
+		size= 77
+	}
+
+	clergymen=
+	{
+		culture = janubii
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = janubii
+		religion = sunni
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = janubii
+		religion = sunni
+		size= 85
+	}
+
+	bureaucrats=
+	{
+		culture = janubii
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = janubii
+		religion = sunni
+		size= 3
+	}
+
+}
+2519 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = janubii
+		religion = sunni
+		size= 319
+	}
+
+	artisans=
+	{
+		culture = janubii
+		religion = sunni
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = janubii
+		religion = sunni
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = janubii
+		religion = sunni
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = janubii
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = janubii
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = janubii
+		religion = sunni
+		size= 3
+	}
+
+}
+2521 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 395
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 878
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+}
+2522 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 345
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 856
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+}
+2523 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 151
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 2
+	}
+
+}
+2525 = {
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+}
+2527 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 785
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 1927
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = protestant
+		size= 116
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 42
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 2
+	}
+
+}
+2579 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 514
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 5
+	}
+
+}

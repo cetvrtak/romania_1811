@@ -1,0 +1,7 @@
+owner=LUZ
+controller=SAX
+add_core=LUZ
+add_core=PLC
+trade_goods = coal
+life_rating = 40
+fort = 1

@@ -1,0 +1,7 @@
+owner=ROT
+controller=ROT
+add_core=GER
+add_core=ROT
+add_core=X03
+trade_goods = grain
+life_rating = 40

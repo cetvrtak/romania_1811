@@ -1,0 +1,4 @@
+owner=SUN
+controller=SUN
+trade_goods = grain
+life_rating = 31

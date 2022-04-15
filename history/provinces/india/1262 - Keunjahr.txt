@@ -1,0 +1,8 @@
+owner=BMN
+controller=BMN
+add_core=GRJ
+add_core=HND
+add_core=JPR
+trade_goods = grain
+life_rating = 32
+fort = 1

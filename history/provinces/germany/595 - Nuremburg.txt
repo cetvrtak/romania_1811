@@ -1,0 +1,8 @@
+owner=LBV
+controller=LBV
+add_core=GER
+add_core=LBV
+add_core=X03
+trade_goods = grain
+life_rating = 40
+fort = 1

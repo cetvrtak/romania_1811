@@ -1,0 +1,7 @@
+owner=QOM
+controller=QOM
+add_core=PER
+add_core=QOM
+add_core=X07
+trade_goods = cotton
+life_rating = 35

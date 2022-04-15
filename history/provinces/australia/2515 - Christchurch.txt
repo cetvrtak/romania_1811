@@ -1,0 +1,4 @@
+owner=NZL
+controller=REB
+trade_goods = wool
+life_rating = 30

@@ -1,0 +1,6 @@
+owner=PRG
+controller=PRG
+add_core=CYA
+trade_goods = timber
+life_rating = 35
+fort = 1

@@ -1,0 +1,10 @@
+owner=X10
+controller=X10
+add_core=KHO
+add_core=PER
+add_core=TIM
+add_core=X10
+trade_goods = cotton
+life_rating = 35
+terrain = dryhills
+fort = 2

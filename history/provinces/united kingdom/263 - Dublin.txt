@@ -1,0 +1,10 @@
+owner=ENL
+controller=ENL
+add_core=ENG
+add_core=ENL
+add_core=FLY
+add_core=IRE
+add_core=ORD
+trade_goods = grain
+life_rating = 35
+naval_base = 1

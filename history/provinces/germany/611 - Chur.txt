@@ -1,0 +1,7 @@
+owner=AUS
+controller=AUS
+add_core=SWI
+add_core=TTL
+trade_goods = cattle
+life_rating = 32
+fort = 1

@@ -1,0 +1,5 @@
+owner=USA
+controller=USA
+add_core=WAM
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,9 @@
+owner=BLC
+controller=AFG
+add_core=BLC
+add_core=HND
+add_core=MUL
+add_core=PNJ
+trade_goods = wool
+life_rating = 32
+fort = 1

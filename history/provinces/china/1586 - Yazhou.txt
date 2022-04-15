@@ -1,0 +1,7 @@
+owner=QIC
+controller=QIC
+add_core=MDO
+add_core=TIB
+trade_goods = timber
+life_rating = 32
+fort = 1

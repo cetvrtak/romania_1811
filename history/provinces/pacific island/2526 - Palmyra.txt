@@ -1,0 +1,6 @@
+owner=HWO
+controller=HWO
+add_core=HWO
+trade_goods = sulphur
+life_rating = 10
+fort = 1

@@ -1,0 +1,88 @@
+vassal=
+{
+	first="DEN"
+	second="NOR"
+	start_date="1444.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="CRO"
+	second="HUN"
+	start_date="1796.6.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ROM"
+	second="ALB"
+	start_date="1520.6.6"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SCO"
+	second="GLR"
+	start_date="1797.10.24"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="NAP"
+	start_date="1778.11.10"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AUS"
+	second="MTA"
+	start_date="1748.2.12"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AUS"
+	second="X12"
+	start_date="1762.7.29"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AUS"
+	second="LUB"
+	start_date="1808.7.29"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="TIM"
+	second="X10"
+	start_date="1792.12.6"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="QOM"
+	second="MSY"
+	start_date="1809.5.22"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="JAP"
+	second="OTM"
+	start_date="1805.1.17"
+	end_date="1936.1.1"
+}
+

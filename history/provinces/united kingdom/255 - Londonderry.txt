@@ -1,0 +1,8 @@
+owner=ENL
+controller=ENL
+add_core=ENG
+add_core=ENL
+add_core=FLY
+add_core=IRE
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,5 @@
+owner=X14
+controller=X14
+trade_goods = cattle
+life_rating = 35
+naval_base = 2

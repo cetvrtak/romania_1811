@@ -1,0 +1,8 @@
+owner=LAN
+controller=LAN
+add_core=BNJ
+add_core=LAN
+add_core=MLY
+trade_goods = sulphur
+life_rating = 35
+naval_base = 2

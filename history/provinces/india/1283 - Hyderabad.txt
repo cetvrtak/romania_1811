@@ -1,0 +1,7 @@
+owner=BMN
+controller=BMN
+add_core=BMN
+add_core=GOC
+add_core=HND
+trade_goods = silk
+life_rating = 32

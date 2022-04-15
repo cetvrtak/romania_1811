@@ -1,0 +1,7 @@
+owner=MFA
+controller=MFA
+add_core=ITA
+add_core=MFA
+trade_goods = fruit
+life_rating = 35
+fort = 1

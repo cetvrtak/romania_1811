@@ -1,0 +1,5 @@
+owner=HLL
+controller=HLL
+add_core=HLL
+trade_goods = timber
+life_rating = 10

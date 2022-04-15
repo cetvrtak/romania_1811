@@ -1,0 +1,6 @@
+owner=KNZ
+controller=KNZ
+add_core=GER
+add_core=KNZ
+trade_goods = grain
+life_rating = 40

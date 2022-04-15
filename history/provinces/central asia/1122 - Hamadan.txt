@@ -1,0 +1,7 @@
+owner=QOM
+controller=QOM
+add_core=PER
+add_core=QOM
+add_core=X07
+trade_goods = fruit
+life_rating = 35

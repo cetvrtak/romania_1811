@@ -1,0 +1,7 @@
+owner=TUN
+controller=TUN
+add_core=MLT
+trade_goods = fish
+life_rating = 32
+terrain = small_island
+naval_base = 1

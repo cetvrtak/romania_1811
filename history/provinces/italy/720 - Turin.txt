@@ -1,0 +1,8 @@
+owner=X12
+controller=SPA
+add_core=ITA
+add_core=SVY
+add_core=X12
+trade_goods = fruit
+life_rating = 40
+fort = 1

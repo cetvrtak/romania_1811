@@ -1,0 +1,416 @@
+1723 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 436
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 189
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 1662
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 441
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 139
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 4
+	}
+
+}
+2204 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 908
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1832
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 3460
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 4327
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 1951
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 351
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 52
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 22
+	}
+
+}
+2205 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 234
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1197
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 817
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 908
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 2741
+	}
+
+}
+2206 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 219
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1021
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 2191
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 856
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 905
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 1033
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 601
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 2103
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 4
+	}
+
+}

@@ -1,0 +1,10 @@
+owner=PEG
+controller=PEG
+add_core=BPR
+add_core=BUR
+add_core=IDO
+add_core=PEG
+trade_goods = grain
+life_rating = 35
+naval_base = 2
+fort = 1

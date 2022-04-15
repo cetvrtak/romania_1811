@@ -1,0 +1,7 @@
+owner=AUO
+controller=AUO
+add_core=ABO
+add_core=AUO
+trade_goods = grain
+life_rating = 32
+naval_base = 1

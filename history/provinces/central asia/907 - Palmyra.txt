@@ -1,0 +1,7 @@
+owner=QOM
+controller=EGY
+add_core=EGY
+add_core=IRQ
+trade_goods = grain
+life_rating = 10
+fort = 1

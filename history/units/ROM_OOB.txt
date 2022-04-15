@@ -1,0 +1,1158 @@
+#Sphere of Influence
+
+AAC = {
+	value = 26
+	level = 2
+}
+ADE = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 218
+	military_access = yes
+	influence_value = 92
+	level = 5
+}
+ALH = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 5
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 135
+	influence_value = 21
+	level = 3
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 40
+	level = 2
+}
+BPR = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 6
+	level = 2
+}
+BRN = {
+	value = 41
+	level = 2
+}
+BRS = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 16
+	level = 2
+}
+CRO = {
+	value = 132
+	influence_value = 20
+	level = 3
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAW = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 13
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 1
+	level = 2
+}
+EFR = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 79
+	influence_value = 7
+	level = 3
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 29
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 46
+	level = 2
+}
+FLO = {
+	value = 43
+	level = 2
+}
+FRA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 35
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GWA = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 9
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KAN = {
+	value = 0
+	level = 2
+}
+KAS = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 16
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 30
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LAU = {
+	value = 0
+	level = 2
+}
+LBV = {
+	value = 20
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 36
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 37
+	level = 2
+}
+LOR = {
+	value = 6
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 20
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAG = {
+	value = 9
+	level = 2
+}
+MAI = {
+	value = 10
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MBZ = {
+	value = 3
+	level = 2
+}
+MEM = {
+	value = 27
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MFA = {
+	value = 2
+	level = 2
+}
+MHR = {
+	value = 13
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MMA = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MSY = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MTR = {
+	value = 0
+	level = 2
+}
+MUN = {
+	value = 12
+	level = 2
+}
+NAP = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OLD = {
+	value = 14
+	level = 2
+}
+ORM = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 27
+	level = 2
+}
+PAP = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PGS = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = -63
+	level = 2
+}
+PNN = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 38
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRB = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 32
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = -18
+	level = 2
+}
+QOM = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+RAG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+REG = {
+	value = 18
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+ROT = {
+	value = 25
+	level = 2
+}
+RUS = {
+	value = 172
+	influence_value = 30
+	level = 3
+}
+RVA = {
+	value = 14
+	level = 2
+}
+SAX = {
+	value = 18
+	level = 2
+}
+SCO = {
+	value = 17
+	level = 2
+}
+SER = {
+	value = 129
+	influence_value = 19
+	level = 3
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = 21
+	level = 2
+}
+SPA = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = -23
+	level = 2
+}
+SWE = {
+	value = 35
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TER = {
+	value = 0
+	level = 2
+}
+TEU = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+THU = {
+	value = 23
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = -8
+	level = 2
+}
+TTL = {
+	value = 18
+	level = 2
+}
+TUN = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+TUR = {
+	value = -137
+	level = 2
+}
+ULM = {
+	value = 25
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTR = {
+	value = 11
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 32
+	level = 2
+}
+VER = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 4
+	level = 2
+}
+WBG = {
+	value = 2
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 4
+	level = 2
+}
+X03 = {
+	value = 17
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 13
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+YAS = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Radu Leon Lupu"
+	date="1783.7.20"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Radu Moruzi"
+	date="1797.11.1"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Vintila Musatin"
+	date="1799.7.9"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=817
+	ship = {
+		name="1st Vlore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dodecanese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mugla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Padua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dodecanese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Myteline Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Üsküdar Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=666
+	regiment = {
+		name="1st Iasi Infantry"
+		type=infantry
+		home=670
+	}
+	regiment = {
+		name="1st Nagyszeben Infantry"
+		type=infantry
+		home=657
+	}
+	regiment = {
+		name="1st Suceava Infantry"
+		type=infantry
+		home=663
+	}
+	regiment = {
+		name="1st Petrich Artillery"
+		type=artillery
+		home=808
+	}
+	regiment = {
+		name="1st Pleven Artillery"
+		type=artillery
+		home=812
+	}
+	regiment = {
+		name="1st Plovdiv Artillery"
+		type=artillery
+		home=815
+	}
+	regiment = {
+		name="1st Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="1st Chisinau Artillery"
+		type=artillery
+		home=676
+	}
+}
+
+army = {
+	name="Oastea de Gumulcine"
+	location=664
+	regiment = {
+		name="1st Braila Infantry"
+		type=infantry
+		home=668
+	}
+	regiment = {
+		name="1st Kavala Infantry"
+		type=infantry
+		home=823
+	}
+	regiment = {
+		name="2nd Braila Infantry"
+		type=infantry
+		home=668
+	}
+	regiment = {
+		name="1st Polygyros Artillery"
+		type=artillery
+		home=822
+	}
+	regiment = {
+		name="1st Tirgoviste Artillery"
+		type=artillery
+		home=667
+	}
+	regiment = {
+		name="1st Bucharest Artillery"
+		type=artillery
+		home=664
+	}
+	regiment = {
+		name="1st Salonika Infantry"
+		type=infantry
+		home=805
+	}
+	regiment = {
+		name="2nd Bucharest Artillery"
+		type=artillery
+		home=664
+	}
+}
+
+army = {
+	name="Oastea de Bucuresti"
+	location=668
+	regiment = {
+		name="1st Silistre Infantry"
+		type=infantry
+		home=818
+	}
+	regiment = {
+		name="1st Constanta Infantry"
+		type=infantry
+		home=674
+	}
+	regiment = {
+		name="1st Bacau Infantry"
+		type=infantry
+		home=672
+	}
+	regiment = {
+		name="1st Tirgu Jiu Artillery"
+		type=artillery
+		home=665
+	}
+	regiment = {
+		name="1st Izmail Artillery"
+		type=artillery
+		home=678
+	}
+	regiment = {
+		name="2nd Tirgoviste Artillery"
+		type=artillery
+		home=667
+	}
+	regiment = {
+		name="1st Volos Artillery"
+		type=artillery
+		home=832
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2777
+	ship = {
+		name="Romania"
+		type=frigate
+	}
+	ship = {
+		name="Stefan cel Mare"
+		type=frigate
+	}
+	ship = {
+		name="Tudor Vladimirescu"
+		type=frigate
+	}
+	ship = {
+		name="Moldova"
+		type=frigate
+	}
+	ship = {
+		name="Mihail Sturdza"
+		type=frigate
+	}
+	ship = {
+		name="Dracul"
+		type=frigate
+	}
+	ship = {
+		name="3rd Gallipoli Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2762
+	ship = {
+		name="Viteazul"
+		type=manowar
+	}
+	ship = {
+		name="Putera mari"
+		type=manowar
+	}
+	ship = {
+		name="Sperietoaria"
+		type=manowar
+	}
+	ship = {
+		name="Frumuseatsa valurilor"
+		type=manowar
+	}
+	ship = {
+		name="Posada"
+		type=manowar
+	}
+	ship = {
+		name="Calugareni"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2773
+	ship = {
+		name="Rovine"
+		type=manowar
+	}
+	ship = {
+		name="Sirmium"
+		type=manowar
+	}
+	ship = {
+		name="Atacul de noapte"
+		type=manowar
+	}
+	ship = {
+		name="Litovoi"
+		type=manowar
+	}
+	ship = {
+		name="Athleta Christi"
+		type=manowar
+	}
+	ship = {
+		name="Baia"
+		type=frigate
+	}
+	ship = {
+		name="Bogdan I"
+		type=frigate
+	}
+	ship = {
+		name="Iuga"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2772
+	ship = {
+		name="Râul Prut"
+		type=frigate
+	}
+	ship = {
+		name="Suceava"
+		type=frigate
+	}
+	ship = {
+		name="Târgul Moldovei"
+		type=frigate
+	}
+	ship = {
+		name="Vaslui"
+		type=frigate
+	}
+	ship = {
+		name="1st Zante Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Silistre Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Izmail Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Corfu Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Oastea de Valais"
+	location=672
+	regiment = {
+		name="1st Pleven Infantry"
+		type=infantry
+		home=812
+	}
+	regiment = {
+		name="1st Calarasi Infantry"
+		type=infantry
+		home=669
+	}
+	regiment = {
+		name="1st Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="2nd Tirgu Jiu Artillery"
+		type=artillery
+		home=665
+	}
+	regiment = {
+		name="1st Missolonghi Artillery"
+		type=artillery
+		home=837
+	}
+	regiment = {
+		name="1st Silistre Artillery"
+		type=artillery
+		home=818
+	}
+	regiment = {
+		name="1st Tulcea Artillery"
+		type=artillery
+		home=675
+	}
+}
+

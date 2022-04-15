@@ -1,0 +1,7 @@
+owner=BMN
+controller=BMN
+add_core=JPR
+trade_goods = tobacco
+life_rating = 32
+naval_base = 2
+fort = 1

@@ -1,0 +1,7 @@
+owner=QIC
+controller=QIC
+add_core=KHA
+add_core=MGL
+add_core=SYG
+trade_goods = coal
+life_rating = 32

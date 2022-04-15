@@ -1,0 +1,8 @@
+owner=KTS
+controller=KAN
+add_core=KAN
+add_core=KTS
+trade_goods = cattle
+life_rating = 35
+terrain = semidesert
+fort = 1

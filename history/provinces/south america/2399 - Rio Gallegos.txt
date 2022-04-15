@@ -1,0 +1,7 @@
+owner=CHL
+controller=CHL
+add_core=CHL
+trade_goods = wool
+life_rating = 15
+terrain = steppe
+naval_base = 2

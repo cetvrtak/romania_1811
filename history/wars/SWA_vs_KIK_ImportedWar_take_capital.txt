@@ -1,0 +1,15 @@
+name = "2nd Kilwan-Kikondja Imperialist War"
+
+1808.6.6 = {
+	add_attacker = SWA
+	add_defender = KIK
+	add_defender = KUB
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = SWA
+		receiver = KIK
+		country = KIK
+		state_province_id = 2012
+	}
+}

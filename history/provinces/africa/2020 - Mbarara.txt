@@ -1,0 +1,7 @@
+owner=SWA
+controller=SWA
+add_core=BNY
+add_core=NKO
+trade_goods = cattle
+life_rating = 10
+fort = 1

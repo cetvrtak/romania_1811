@@ -1,0 +1,9 @@
+owner=BMN
+controller=BMN
+add_core=BMN
+add_core=BRR
+add_core=GUJ
+add_core=HND
+add_core=MRT
+trade_goods = fruit
+life_rating = 32

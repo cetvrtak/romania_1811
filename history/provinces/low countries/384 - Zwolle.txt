@@ -1,0 +1,7 @@
+owner=GLR
+controller=GLR
+add_core=GLR
+add_core=NET
+trade_goods = fish
+life_rating = 35
+naval_base = 1

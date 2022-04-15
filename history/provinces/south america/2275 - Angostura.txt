@@ -1,0 +1,6 @@
+owner=X14
+controller=X14
+add_core=CAB
+trade_goods = timber
+life_rating = 31
+colonial=2

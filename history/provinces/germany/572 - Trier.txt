@@ -1,0 +1,8 @@
+owner=LOR
+controller=REB
+add_core=GER
+add_core=LOR
+add_core=TER
+trade_goods = iron
+life_rating = 40
+fort = 1

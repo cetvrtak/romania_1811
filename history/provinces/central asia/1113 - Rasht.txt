@@ -1,0 +1,8 @@
+owner=QOM
+controller=QOM
+add_core=PER
+add_core=QOM
+add_core=TAB
+trade_goods = timber
+life_rating = 35
+fort = 1

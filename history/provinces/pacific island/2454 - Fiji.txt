@@ -1,0 +1,7 @@
+owner=FIJ
+controller=FIJ
+add_core=FIJ
+trade_goods = fish
+life_rating = 15
+naval_base = 2
+fort = 1

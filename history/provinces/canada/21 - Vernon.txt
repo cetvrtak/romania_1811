@@ -1,0 +1,6 @@
+owner=LSK
+controller=LSK
+add_core=LSK
+add_core=SAL
+trade_goods = timber
+life_rating = 32

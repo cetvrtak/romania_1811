@@ -1,0 +1,15 @@
+name = "2nd Verdner-Hamburgian Nationalist War"
+
+1808.11.4 = {
+	add_attacker = VER
+	add_attacker = UTR
+	add_defender = HAM
+	add_defender = EFR
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = VER
+		receiver = HAM
+		state_province_id = 528
+	}
+}

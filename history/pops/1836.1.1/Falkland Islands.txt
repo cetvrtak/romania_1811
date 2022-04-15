@@ -1,0 +1,44 @@
+2131 = {
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = grootdesseyn
+		religion = protestant
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = grootdesseyn
+		religion = protestant
+		size= 1
+	}
+
+}

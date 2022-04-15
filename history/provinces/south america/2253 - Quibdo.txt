@@ -1,0 +1,5 @@
+owner=CLM
+controller=CLM
+trade_goods = fish
+life_rating = 33
+naval_base = 2

@@ -1,0 +1,7 @@
+owner=NZL
+controller=NZL
+add_core=ABO
+add_core=AUI
+add_core=NZL
+trade_goods = grain
+life_rating = 20

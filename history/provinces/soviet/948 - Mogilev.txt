@@ -1,0 +1,6 @@
+owner=RUS
+controller=PLC
+add_core=BYE
+add_core=PLT
+trade_goods = grain
+life_rating = 35

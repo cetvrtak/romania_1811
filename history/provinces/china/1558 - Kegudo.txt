@@ -1,0 +1,8 @@
+owner=KWN
+controller=KWN
+add_core=KWN
+add_core=TIB
+add_core=UTS
+trade_goods = grain
+life_rating = 32
+fort = 1

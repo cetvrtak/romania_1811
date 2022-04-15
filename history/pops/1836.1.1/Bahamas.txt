@@ -1,0 +1,214 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 778
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 86
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 3685
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 114
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 203
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 621
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 37
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 116
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 667
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 6
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=JAP
+controller=JAP
+trade_goods = tea
+life_rating = 35
+terrain = plains

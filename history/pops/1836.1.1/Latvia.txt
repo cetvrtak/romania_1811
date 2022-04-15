@@ -1,0 +1,621 @@
+354 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 470
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 205
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 270
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 160
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 618
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 52047
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2075
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 800
+	}
+
+}
+355 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 2362
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = catholic
+		size= 2136
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = catholic
+		size= 389
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 162
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 569
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 77692
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 858
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = catholic
+		size= 497
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = catholic
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = catholic
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 28701
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = orthodox
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = orthodox
+		size= 659
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = orthodox
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = orthodox
+		size= 50
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = orthodox
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = orthodox
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = orthodox
+		size= 3659
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 166
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 789
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 60
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 210
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 4288
+	}
+
+}
+356 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 1472
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = catholic
+		size= 391
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = catholic
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 24070
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 314
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 556
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 47
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 166
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 4167
+	}
+
+}
+357 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 803
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = catholic
+		size= 1090
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 65
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 28709
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 750
+	}
+
+}
+358 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 926
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = catholic
+		size= 1216
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = catholic
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 103
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 308
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 32502
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 950
+	}
+
+}
+359 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 607
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = catholic
+		size= 811
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = catholic
+		size= 212
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = catholic
+		size= 22311
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 750
+	}
+
+}

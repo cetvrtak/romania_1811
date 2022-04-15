@@ -1,0 +1,9 @@
+owner=NAP
+controller=NAP
+add_core=ITA
+add_core=NAP
+add_core=SIC
+trade_goods = timber
+life_rating = 35
+naval_base = 2
+fort = 1

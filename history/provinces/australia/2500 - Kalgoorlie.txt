@@ -1,0 +1,7 @@
+owner=AUO
+controller=AUO
+add_core=ABO
+add_core=AUO
+trade_goods = grain
+life_rating = 15
+terrain = dryhills

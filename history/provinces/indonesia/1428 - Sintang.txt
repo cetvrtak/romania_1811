@@ -1,0 +1,7 @@
+owner=LAN
+controller=LAN
+add_core=BNJ
+add_core=LAN
+trade_goods = wool
+life_rating = 31
+fort = 1

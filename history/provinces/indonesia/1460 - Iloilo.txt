@@ -1,0 +1,8 @@
+owner=CEB
+controller=CEB
+add_core=CEB
+add_core=PHL
+trade_goods = fruit
+life_rating = 35
+naval_base = 2
+fort = 1

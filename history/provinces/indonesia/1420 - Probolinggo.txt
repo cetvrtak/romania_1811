@@ -1,0 +1,10 @@
+owner=BLM
+controller=BLM
+add_core=BLM
+add_core=JAV
+add_core=MTR
+add_core=SUN
+trade_goods = sulphur
+life_rating = 35
+naval_base = 2
+fort = 1

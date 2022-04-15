@@ -1,0 +1,8 @@
+owner=QIC
+controller=CXI
+add_core=CHI
+add_core=CXI
+add_core=QIC
+add_core=SHU
+trade_goods = fruit
+life_rating = 32

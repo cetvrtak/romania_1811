@@ -1,0 +1,7 @@
+owner=OTM
+controller=JAP
+add_core=JAP
+add_core=OTM
+trade_goods = fruit
+life_rating = 35
+naval_base = 2

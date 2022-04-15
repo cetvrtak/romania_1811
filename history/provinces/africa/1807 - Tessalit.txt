@@ -1,0 +1,6 @@
+owner=KTS
+controller=KTS
+add_core=KTS
+add_core=SGH
+trade_goods = cattle
+life_rating = 5

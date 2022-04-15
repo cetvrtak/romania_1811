@@ -1,0 +1,7 @@
+owner=DAW
+controller=DAW
+add_core=ARA
+add_core=DAW
+trade_goods = wool
+life_rating = 10
+fort = 2

@@ -1,0 +1,5 @@
+owner=CLM
+controller=CLM
+add_core=CHM
+trade_goods = cattle
+life_rating = 34

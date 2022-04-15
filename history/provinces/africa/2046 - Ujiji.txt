@@ -1,0 +1,7 @@
+owner=SWA
+controller=SWA
+add_core=UBH
+trade_goods = fruit
+life_rating = 10
+terrain = dryhills
+fort = 1
