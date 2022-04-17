@@ -4576,6 +4576,7 @@ country_event = {
 	picture = "Poor"
 	
 	trigger = {
+        NOT = { tag = AAA }
 		money = 300000
 		}
 	mean_time_to_happen = {
