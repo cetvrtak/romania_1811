@@ -1021,3 +1021,133 @@ political_decisions = {
         }
     }
 }
+
+    slight_tax_refund = {
+        alert = no
+        picture = switch_to_order
+        potential = {
+            money = 150000
+        }
+
+        allow = {
+            NOT = { has_country_modifier = slight_refund }
+        }
+
+        ai_will_do = {
+            factor = 1
+        }
+        effect = {
+            add_country_modifier = {
+                name = slight_refund
+                duration = -1
+            }
+        }
+    }
+
+    medium_tax_refund = {
+        alert = no
+        picture = switch_to_order
+        potential = {
+            money = 250000
+        }
+
+        allow = {
+            NOT = { has_country_modifier = medium_refund }
+        }
+
+        ai_will_do = {
+            factor = 1
+        }
+        effect = {
+            add_country_modifier = {
+                name = medium_refund
+                duration = -1
+            }
+        }
+    }
+
+    large_tax_refund = {
+        alert = no
+        picture = switch_to_order
+        potential = {
+            money = 400000
+        }
+
+        allow = {
+            NOT = { has_country_modifier = large_refund }
+        }
+
+        ai_will_do = {
+            factor = 1
+        }
+        effect = {
+            add_country_modifier = {
+                name = large_refund
+                duration = -1
+            }
+        }
+    }
+    slight_tax_repeal = {
+        alert = no
+        picture = switch_to_order
+        potential = {
+            has_country_modifier = slight_refund
+        }
+
+        allow = {
+        }
+
+        ai_will_do = {
+            factor = 1
+            modifier = {
+                factor = 0
+                money = 100000
+            }
+        }
+        effect = {
+            remove_country_modifier = slight_refund
+        }
+    }
+    medium_tax_repeal = {
+        alert = no
+        picture = switch_to_order
+        potential = {
+            has_country_modifier = medium_refund
+        }
+
+        allow = {
+        }
+
+        ai_will_do = {
+            factor = 1
+            modifier = {
+                factor = 0
+                money = 200000
+            }
+        }
+        effect = {
+            remove_country_modifier = medium_refund
+        }
+    }
+    large_tax_repeal = {
+        alert = no
+        picture = switch_to_order
+        potential = {
+            has_country_modifier = large_refund
+        }
+
+        allow = {
+        }
+
+        ai_will_do = {
+            factor = 1
+            modifier = {
+                factor = 0
+                money = 300000
+            }
+        }
+        effect = {
+            remove_country_modifier = large_refund
+        }
+    }
+}

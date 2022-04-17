@@ -111,6 +111,12 @@ direct_current = {
     effect = {
         rgo_output = 0.05
         factory_throughput = 0.05
+        rgo_goods_output = {
+            coal = 0.50
+            iron = 0.50
+            sulphur = 0.50
+            oil = 0.50
+        }
     }
 }
 alternating_current = {
@@ -392,6 +398,12 @@ machine_tools = {
             machine_parts = 0.02
         }
         factory_throughput = 0.05
+        rgo_goods_output = {
+            coal = 0.50
+            iron = 0.50
+            sulphur = 0.50
+            oil = 0.50
+        }
     }
 }
 whitney_n_colts_standardized_small_arms = {
@@ -410,6 +422,12 @@ whitney_n_colts_standardized_small_arms = {
     effect = {
         factory_goods_output = {
             small_arms = 0.02
+        }
+        rgo_goods_output = {
+            coal = 0.50
+            iron = 0.50
+            sulphur = 0.50
+            oil = 0.50
         }
     }
 }
