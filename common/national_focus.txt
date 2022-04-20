@@ -222,7 +222,7 @@ promotion_focus = {
             NOT = { state_scope = { any_owned_province = { NOT = { controlled_by = THIS } } } }
             work_available = { worker = craftsmen }
             NOT = { state_scope = { is_colonial = yes } }
-            NOT = { state_scope = { any_owned_province = { unemployment_by_type = { type = craftsmen value = 0.5 } } } }
+            NOT = { state_scope = { any_owned_province = { unemployment_by_type = { type = craftsmen value = 0.1 } } } }
         }
     }
 
@@ -270,7 +270,10 @@ promotion_focus = {
         outliner_show_as_percent = yes
         limit = {
             NOT = { state_scope = { any_owned_province = { NOT = { controlled_by = THIS } } } }
-            NOT = { state_scope = { soldiers = 0.05 } }
+            OR = {
+                state_scope = { any_owned_province = { NOT = { any_pop = { unemployment = 0.1 } } } }
+                NOT = { state_scope = { soldiers = 0.05 } }
+            }
             OR = {
                 NOT = { state_scope = { is_colonial = yes } }
                 owner = { has_country_flag = colonial_armies }
