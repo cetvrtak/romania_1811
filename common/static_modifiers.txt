@@ -155,6 +155,7 @@ infrastructure = {
 
 base_values = {
     supply_limit = 5
+    unemployment_benefit = 0.50
 }
 
 war = {
